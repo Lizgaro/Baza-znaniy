@@ -183,6 +183,14 @@ export const categories: Category[] = [
     color: "from-indigo-500 to-violet-500",
     resources: [
       {
+        id: "tw-0",
+        title: "Быстрый Старт",
+        description: "Гайд для новичков: с чего начать работу в экосистеме партнеров роста",
+        url: "https://docs.google.com/document/d/10Isgjf0wcVpn72QGxi51RFeU21XN9JpYxVq01m-_5QM/edit?usp=sharing",
+        type: "article",
+        category: "team-work",
+      },
+      {
         id: "tw-1",
         title: "Вводные видео",
         description: "Базовые материалы для старта работы",
